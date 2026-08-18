@@ -1,0 +1,53 @@
+1.Insert Beginning
+2.Insert End
+3.Insert Position
+4.Delete Beginning
+5.Delete End
+6.Delete Position
+7.Display
+8.Exit
+3
+3
+3
+
+1.Insert Beginning
+2.Insert End
+3.Insert Position
+4.Delete Beginning
+5.Delete End
+6.Delete Position
+7.Display
+8.Exit
+4
+
+1.Insert Beginning
+2.Insert End
+3.Insert Position
+4.Delete Beginning
+5.Delete End
+6.Delete Position
+7.Display
+8.Exit
+5
+
+1.Insert Beginning
+2.Insert End
+3.Insert Position
+4.Delete Beginning
+5.Delete End
+6.Delete Position
+7.Display
+8.Exit
+7
+NULL
+
+1.Insert Beginning
+2.Insert End
+3.Insert Position
+4.Delete Beginning
+5.Delete End
+6.Delete Position
+7.Display
+8.Exit
+8
+
