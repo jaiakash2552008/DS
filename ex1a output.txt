@@ -1,0 +1,45 @@
+cs001@cs001-VirtualBox:~$ ./a.out
+
+Array Operations Menu:
+1. Create Array
+2. Insert Element
+3. Search Element
+4. Delete Element
+5. Display Array
+6. Exit
+Enter your choice: 1
+Enter number of elements: 1
+Enter elements:
+1
+
+Array Operations Menu:
+1. Create Array
+2. Insert Element
+3. Search Element
+4. Delete Element
+5. Display Array
+6. Exit
+Enter your choice: 2
+Enter element to insert: 2
+Enter position (0 to 1): 1
+
+Array Operations Menu:
+1. Create Array
+2. Insert Element
+3. Search Element
+4. Delete Element
+5. Display Array
+6. Exit
+Enter your choice: 5
+Array elements: 1 2 
+
+Array Operations Menu:
+1. Create Array
+2. Insert Element
+3. Search Element
+4. Delete Element
+5. Display Array
+6. Exit
+Enter your choice: 6
+cs001@cs001-VirtualBox:~$ a
+
