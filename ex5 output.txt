@@ -1,0 +1,33 @@
+1.Create a BST
+2.Search
+3.BST Traversals: 
+4.Exit
+Enter your choice: 1
+
+Enter the number of elements: 4
+
+Enter The value: 1
+
+Enter The value: 2
+
+Enter The value: 3
+
+Enter The value: 4
+
+~~~~BST MENU~~~~
+1.Create a BST
+2.Search
+3.BST Traversals: 
+4.Exit
+Enter your choice: 2
+
+The Preorder display : 1 2 3 4 
+The Inorder display : 1 2 3 4 
+The Postorder display : 4 3 2 1 
+~~~~BST MENU~~~~
+1.Create a BST
+2.Search
+3.BST Traversals: 
+4.Exit
+Enter your choice: 4
+
